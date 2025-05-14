@@ -1,0 +1,148 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+p {
+    color: black;
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    text-align: justify;
+    text-indent: 50px;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+}
+
+.divisor {
+    border: 0px solid whitesmoke;
+    border-top: 1px solid black;
+    margin: -20px;
+}
+
+.navbar {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.navbar li a {
+    text-decoration: nome;
+    color: #fff;
+    font-weight: bold;
+}
+
+.navbar li a:hover {
+    color: #ff6600;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+    color: #fff;
+    margin-top: 2rem;
+}
+
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+}
+
+.dark-theme {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.dark-theme header {
+    background-color: #1e1e1e;
+}
+
+.dark-theme footer {
+    background-color: #1e1e1e;
+}
+
+.dark-theme p {
+    color: #cccccc; /* Cor do texto no tema escuro */
+}
+
+.dark-theme h2, .dark-theme h3, .dark-theme h4 {
+    color: #ffffff; /* Cor dos títulos no tema escuro */
+}
+
+.dark-theme .jogo p {
+    color: #ffcc00; /* Cor dos valores dos jogos no tema escuro */
+}
+
+.jogos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    padding: 1rem;
+}
+
+.jogo {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1rem;
+    text-align: center;
+    width: 100%;
+    max-width: 200px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.jogo img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.jogo h4 {
+    margin: 0.5rem 0;
+    font-size: 1.2rem;
+    color: #333;
+}
+
+.jogo p {
+    font-size: 1rem;
+    color: #666;
+}
+
+.jogo button {
+    background-color: #ff6600;
+    color: #fff;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+.jogo button:hover {
+    background-color: #e55d00;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    .jogos {
+        flex-direction: column;
+        align-items: center;
+    }
+}
