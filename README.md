@@ -44,6 +44,16 @@ Contribuições são bem-vindas! Se desejar colaborar com melhorias ou novas fun
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
+Licença MIT
+
+Copyright (c) [2025] [Matheus Fonseca e Matheus Vilela]
+
+Por meio deste, é concedida permissão, gratuitamente, a qualquer pessoa que obtenha uma cópia deste software e dos arquivos de documentação associados (o "Software"), para lidar com o Software sem restrições, incluindo, sem limitação, os direitos de usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do Software, e para permitir que as pessoas a quem o Software seja fornecido o façam, sujeito às seguintes condições:
+
+O aviso de copyright acima e este aviso de permissão deverão ser incluídos em todas as cópias ou partes substanciais do Software.
+
+O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU IMPLÍCITA, INCLUINDO, SEM LIMITAÇÃO, AS GARANTIAS DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM DETERMINADO FIM E NÃO INFRAÇÃO. EM NENHUM CASO OS AUTORES OU DETENTORES DOS DIREITOS SERÃO RESPONSÁVEIS POR QUALQUER REIVINDICAÇÃO, DANOS OU OUTRA RESPONSABILIDADE, SEJA EM UMA AÇÃO CONTRATUAL, RESPONSABILIDADE OBJETIVA OU OUTRA, DECORRENTES, RELACIONADAS OU DE QUALQUER FORMA RESULTANTES DO USO OU DA NEGOCIAÇÃO COM O SOFTWARE.
+
 
 ## Contato
 
