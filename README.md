@@ -58,7 +58,7 @@ O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU
 ## Contato
 
 Para mais informações, entre em contato:
-- E-mail: seuemail@dominio.com
+- E-mail: pessoal.matheus.fonseca@gmail.com
 
 ## Autores
 
