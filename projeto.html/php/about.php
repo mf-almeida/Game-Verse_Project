@@ -4,8 +4,9 @@
     <meta charset="UTF-8"> <!--ACENTUAÇÃO-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!--RESPONSIVIDADE-->
     <title>Game Verse - Sobre</title>
-    <link rel="icon" href="img/GameVerseFavIcon.png" type="image/png"> <!--ICON DO SITE-->
-    <link rel="stylesheet" href="css/styles.css"> <!--CONECTA PASTA CSS-->
+    <link rel="icon" href="../img/GameVerseFavIcon.png" type="image/png"> <!--ICON DO SITE-->
+    <link rel="stylesheet" href="../css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap" rel="stylesheet">
 </head>
 <body>
     <header>
@@ -28,6 +29,6 @@
         <h6>&copy; 2025 Game Verse. <br>Todos os direitos reservados.</h6>
     </footer>
 
-    <script src="js/scripts.js"></script> <!--CONECTA PASTA JS FICA ASSIM MESMO-->
+    <script src="../js/scripts.js"></script> <!--CONECTA PASTA JS FICA ASSIM MESMO-->
 </body>
 </html>
